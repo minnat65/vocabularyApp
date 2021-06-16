@@ -1,0 +1,33 @@
+.navbar {
+    height: 5rem;
+    display: flex;
+    padding: 0 5%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(114, 44, 114);
+    position: sticky;
+    top: 0px;
+    
+  }
+
+  .navbar h3{
+      color: white;
+  }
+.navbar div{
+    display: flex;
+    align-items: center;
+}
+
+.navbar div input{
+    padding: 0.5rem;
+    margin: 5px;
+}
+
+.navbar div button{
+    padding: 0.12rem;
+    cursor: pointer;
+}
+
+.navbar div button:active{
+    background-color: aqua;
+}

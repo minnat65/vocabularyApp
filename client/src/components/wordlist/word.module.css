@@ -1,0 +1,11 @@
+.word{
+    text-decoration: none;
+}
+
+.word h3{
+    margin-bottom: 0px;
+}
+
+.word:active{
+    color: rgb(224, 167, 224);
+}
